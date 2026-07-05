@@ -74,6 +74,6 @@ I am a B.Tech Computer Science and Engineering student specializing in building 
 
 ## 📮 Get In Touch
 
-- **LinkedIn**: [linkedin.com/in/parshav-shah-bb20b8304](https://www.linkedin.com/in/parshav-shah-bb20b8304/)
+- **LinkedIn**: [linkedin.com/in/parshav-shah-485739284](https://www.linkedin.com/in/parshav-shah-485739284/)
 - **Email**: [prashavshah18526@gmail.com](mailto:prashavshah18526@gmail.com)
 - **GitHub**: [github.com/Parshav2304](https://github.com/Parshav2304)
